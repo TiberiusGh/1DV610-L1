@@ -1,0 +1,27 @@
+{
+  "name": "l1",
+  "version": "1.0.0",
+  "description": "Börja programmera",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TiberiusGh/1DV610-L1.git"
+  },
+  "author": "Tiberius Gherac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TiberiusGh/1DV610-L1/issues"
+  },
+  "homepage": "https://github.com/TiberiusGh/1DV610-L1#readme",
+  "dependencies": {
+    "cowsay": "^1.6.0",
+    "superheroes": "^4.0.0",
+    "vite": "^6.3.5"
+  }
+}
