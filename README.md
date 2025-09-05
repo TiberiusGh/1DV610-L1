@@ -4,9 +4,9 @@
 
 🌐 **Live at**: [1dv610-l1.netlify.app](https://1dv610-l1.netlify.app)
 
-### Deadline: **9/9 kl 08.15**
+### Preview:
 
-Använd er utav Github för L2 och L3. Vi använder GitHub eftersom det är standardverktyget för öppen källkod och versionshantering. Det gör det lättare för andra studenter (och läraren) att följa din utvecklingsprocess, återanvända din kod och lämna feedback.
+![preview](image.png)
 
 ## Syfte
 
@@ -43,22 +43,6 @@ Det finns inga stilpoäng utan se till att bli varm i kläderna. Undvik prestati
 - ...känner att du kommit igång med programmeringen
 
 - ...känner dig lite lagom färdig, kanske lite stolt och att du faktiskt minns lite från första året!
-
-### Redovisa
-
-För att redovisa, Ta screenshot(s) som visar hälsningen eller en video ( max en minut) och posta i Slack, antingen...
-
-- ...publikt i tråden med detta syfte i Slack.
-
-- ...eller privat i DM till @Daniel Toll om det känns obekvämt (men ni vågar posta publikt, ni duger!)
-
-Posta även en trevlig reaction till de som vågar posta publikt
-
-### Bedömning
-
-- G sätts då examinatorn får ett screenshot eller kort film och eventuellt en förklaring så jag kan förstå kopplingen mellan det inmatade och det jag ser.
-
-- U om inget screenshot eller film postats från ditt konto.
 
 ### Regler
 
